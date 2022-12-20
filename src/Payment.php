@@ -5,7 +5,7 @@ namespace festpay;
 /**
  * Class Payment
  *
- * @link https://developers.trxhost.com/en/en_PP_Parameters.html
+ * @link https://developers.festpay.ru/en/en_PP_Parameters.html
  *
  * phpcs:disable
  * @method $this setAccountToken(string $token):self The token of the bank card that will be used to perform a payment
