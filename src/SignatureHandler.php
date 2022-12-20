@@ -5,7 +5,7 @@ namespace festpay;
 /**
  * SignatureHandler
  *
- * @see https://developers.trxhost.com/en/en_PP_Authentication.html
+ * @see https://developers.festpay.ru/en/en_PP_Authentication.html
  */
 class SignatureHandler
 {
